@@ -6,7 +6,7 @@ This folder contains four files:
 
 2. **news+tweets_CNN.ipynb**: this Jupyter Notebook loads a CNN model trained on the news training dataset, and performs additional training on a tweets dataset. 
 
-3. **trained_CNN_model**: this file contains the parameters used to train a CNN model on a news training dataset (from Ceolin and Zhang (2020)).
+3. **trained_CNN_model**: this file contains the parameters used to train a CNN model on a news training dataset (from Ceolin and Zhang 2020).
 
 4. **tweets_CNN.ipynb**: this Jupyter Notebook trains a CNN model directly on the tweets dataset, ```'dev.txt'```, and evaluates it.
 
