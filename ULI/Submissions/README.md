@@ -1,12 +1,16 @@
-# VarDial2021 - Uralic Language Identification (DLI)
+# VarDial2021 - Uralic Language Identification (ULI)
 
 This folder contains the following material:
 
-1. **Cross_Validation_SVM_Track1.ipynb**: this Jupyter Notebook contains the Linear SVM model that was trained to distinguish target from non-target languages in the training data.
+1. **Track1_submission.ipynb**: this Jupyter Notebook trains the model developed for Track1 and assign labels to the sentences in the test set (which can be downloaded [here](http://www.suki.ling.helsinki.fi/ULI2020/ULI2020_test.zip)). Target languages only (all others are assigned 'NA' by default). 
 
-2. **Cross_Validation_NB_Track1.ipynb**: this Jupyter Notebook contains the Multinominal Naive Bayes model that was trained to classify the target languages.
+2. **Track3_submission.ipynb**: this Jupyter Notebook contains the model developed for Track 3 and assign labels to the sentences in the test set (all languages).
 
-3. **Track1.ipynb**: this Jupyter Notebook creates a pipeline containing the previous two models, and evaluates its performance accuracy.
+3. **Ensemble_methods.ipynb**: this Jupyter Notebook combines the predictions by the previous two models.
 
-4. **Cross_Validation_NB_Track3.ipynb**: this Jupyter Notebook contains the Multinomial Naive Bayes model that was trained to classify all the languages in the training dataset.
+4. **ULI-track-1-Phlyers.txt**: this is the output of the Track1 model.
+
+5. **ensemble_1.txt**: this is the first attempt (Ensemble 1) to combine the predictions of the previous two models.
+
+6. **ensemble_2.txt**: this is the second attempt (Ensemble 2) to combine the predictions of the previous two models.
 
