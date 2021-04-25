@@ -4,7 +4,7 @@ This folder contains four files:
 
 1. **shallow_models.py**: this Python3 script loads the tweets training data for the shared task, ```'dev.txt'```, and evaluates a Multinomial Naive Bayes model trained on TFIDF-transformed character ngrams. A Linear SVM can also be selected as the model to train.
 
-2. **news+tweets_CNN.ipynb**: this Jupyter Notebook loads a CNN model trained on the news training dataset, and performs additional training on a tweets dataset. 
+2. **news+tweets_CNN.ipynb**: this Jupyter Notebook loads a CNN model trained on the news training dataset, and performs additional training and evaluation on a tweets dataset. 
 
 3. **trained_CNN_model**: this file contains the parameters used to train a CNN model on a news training dataset (from Ceolin and Zhang 2020).
 
