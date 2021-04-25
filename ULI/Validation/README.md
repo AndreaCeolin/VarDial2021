@@ -6,7 +6,7 @@ This folder contains the following material:
 
 2. **Cross_Validation_NB_Track1.ipynb**: this Jupyter Notebook contains the Multinominal Naive Bayes model that was trained to classify the target languages.
 
-3. **Track1.ipynb**: this Jupyter Notebook creates a pipeline containing the previous two models, and evaluates its performance accuracy.
+3. **Track1.ipynb**: this Jupyter Notebook creates a pipeline containing the previous models, and evaluates its performance accuracy.
 
 4. **Cross_Validation_NB_Track3.ipynb**: this Jupyter Notebook contains the Multinomial Naive Bayes model that was trained to classify all the languages in the training dataset.
 
