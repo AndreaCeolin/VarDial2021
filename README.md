@@ -8,9 +8,9 @@ Here is a list of the folders.
 
 1. **DLI**: This folder contains the material developed for the Dravidian Language Identification task.
 
-2. **RDI**: This folder contains the material developed for the Romanian Language Identification task. 
+2. **RDI**: This folder contains the material developed for the Romanian Dialect Identification task. 
 
-3. **ULI**: This folder contains the material developed for the Uralic Language Identification task/
+3. **ULI**: This folder contains the material developed for the Uralic Language Identification task.
 
 4. **VarDial2021-Ceolin.pdf**: This is the proceedings paper that describes the task and our contribution.
 
